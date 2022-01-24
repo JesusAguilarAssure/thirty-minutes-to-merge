@@ -1,6 +1,6 @@
 ## Welcome to Thirty Minutes to Merge
 
-A project based learning activity for people who are getting started with branching with Git.
+A project baseded learning activity for people who are getting started with branching with Git.
 
 You can play the game at: https://githubschool.github.io/thirty-minutes-to-merge/
 
